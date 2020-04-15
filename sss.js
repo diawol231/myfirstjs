@@ -26,3 +26,4 @@ dectr--;
 console.log(--incr); 
 console.log(++dectr);
 console.log(5%2);
+console.log("Заебала");
